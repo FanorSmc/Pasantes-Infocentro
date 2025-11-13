@@ -1,0 +1,21 @@
+#titulo {
+    color: goldenrod;
+}
+.texto{
+    border-style: ridge;
+    border-color: grey;
+    border-radius: 5px;
+    border-width: 2mm;
+}
+/* Estilos para los border:
+    dotted
+    dashed
+    solid
+    double
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden
+*/
