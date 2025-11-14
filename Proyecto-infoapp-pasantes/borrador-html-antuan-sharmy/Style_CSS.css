@@ -1,0 +1,33 @@
+h1
+    {color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font: size 10px;
+    border-style:inset;
+    border-color:rgb(22, 22, 22);
+    border-radius: 5px;
+    border-width: 2mm;
+}
+h2 {
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-style:inset;
+    border-color:rgb(22, 22, 22);
+    border-radius: 5px;
+    border-width: 2mm;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+button-leer-mas {
+    background-color: rgb(162, 131, 184);
+    color:black;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    border-width: 5dvb;
+
+}
+
+
