@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "pt-serif";
+    src: url("/fonts/PT_Serif/PTSerif-Regular.ttf");
+}
+
+body {
+    background-color: rgb(43, 39, 39);
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: rgb(59, 57, 57);
+    font-family: pt-serf;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 14px;
+    margin: 10px;
+    padding-left: 10px;
+    
+}
+
+li {
+    background-color: rgb(59, 57, 57);
+    font-family: pt-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 14px;
+    margin: 20px;
+    padding-left: 10px;
+}
+
+p {
+    font-family: pt-serif;
+    font-size: 18px;
+    text-align: justify;
+    padding: 20px;
+}
+
+h6{
+    font-family: pt-serif;
+    font-size: 15px;
+    letter-spacing: 3px;
+    padding-left: 10px;
+}
+
+a{
+    color: rgb(60, 170, 221);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-bottom: 25px;
+}
